@@ -1,21 +1,21 @@
 #Internal package file, do not edit.
-#Wed Nov 09 09:12:55 CET 2016
-2.base=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+#Wed Nov 09 11:01:48 CET 2016
+2.base=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
 5.set=ANDROID_RESOURCE
-3.base=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.base=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
 2.set=ANDROID_RESOURCE
-4.base=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.base=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
 count=6
-0.file=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
-5.base=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.set=ANDROID_RESOURCE
-1.file=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 1.set=ANDROID_RESOURCE
-2.file=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
-0.base=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.file=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+0.base=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
 3.set=ANDROID_RESOURCE
-1.base=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=C\:\\Users\\Lluis Maria\\StudioProjects\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.base=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\ExemplesAndroid\\android-preferences-1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
 0.set=ANDROID_RESOURCE

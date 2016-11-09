@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 				editor.putString("email", "modificado@email.com");
 				editor.putString("nombre", "Prueba");
 				editor.commit();
-				btnCargar.setText("He guardado");
+
 
 			}
 		});
